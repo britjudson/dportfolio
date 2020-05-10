@@ -1,7 +1,11 @@
+---
+layout: post
+title:  "My First Blog Post"
+---
+
 # My first blog post: Learning How GitHub Pages Works
 
 Today, I spent some time completing the Introduction to GitHub course. Here's a recap of all the tasks I accomplished in this repository:
-
 - Learned about issues, pull requests, and the structure of a GitHub repository
 - Learned about branching
 - Created a commit
