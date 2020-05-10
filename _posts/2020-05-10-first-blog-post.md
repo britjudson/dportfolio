@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "My First Blog Post"
+date: 2020-05-10
 ---
 
 # My first blog post: Learning How GitHub Pages Works
