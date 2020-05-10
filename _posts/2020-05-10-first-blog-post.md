@@ -3,7 +3,7 @@ title: "My First Blog Post"
 date: 2020-05-10
 ---
 
-# My first blog post: Learning How GitHub Pages Works
+# Learning How GitHub Pages Works
 
 Today, I spent some time completing the Introduction to GitHub course. Here's a recap of all the tasks I accomplished in this repository:
 - Learned about issues, pull requests, and the structure of a GitHub repository
@@ -14,4 +14,10 @@ Today, I spent some time completing the Introduction to GitHub course. Here's a 
 - Enabled GitHub Pages
 - Made my first contribution! 🎉
 
-Now, I'm learning how to build my own website using the GitHub pages platform. 
+Now, I'm learning how to build my own website using the GitHub pages platform. Here's what I learned:
+- How to enable GitHub Pages
+- How to select a theme using the config file
+- How to use proper directory format and file naming conventions in Jekyll
+- How to add and modify Jekyll front matter
+
+Stay tuned for more updates to my site!
