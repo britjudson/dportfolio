@@ -1,13 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: Brittany Judson's Personal Site
+author: Brittany Judson
+email: brit.e.villarmino@gmail.com.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a website displaying content authored by Brittany Judson. Brittany is based in Atlanta, GA, is an Agnes Scott grad, and is a consultant at a nonprofit called the Partnership for Southern Equity. This is her first time making a website on GitHub. On this site, you'll find the following sections: About Brittany, Resume, Work Experience, Economic Research, GitHub Repository, and other fun stuff. 
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: britjud # DO NOT include the @ character, or else the build will fail!
+github_username:  britjudson # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
