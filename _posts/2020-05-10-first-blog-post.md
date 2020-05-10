@@ -3,7 +3,7 @@ title: "My First Blog Post"
 date: 2020-05-10
 ---
 
-# Learning How GitHub Pages Works
+# Learning How GitHub and GitHub Pages Works
 
 Today, I spent some time completing the Introduction to GitHub course. Here's a recap of all the tasks I accomplished in this repository:
 - Learned about issues, pull requests, and the structure of a GitHub repository
