@@ -1,8 +1,8 @@
 theme: minima
 title: "Brittany Judson: Digital Portfolio"
 author: Brittany Judson
-email: brit.e.villarmino@gmail.com.com
-description: > # this means to ignore newlines until "baseurl:"
+email: brit.e.villarmino@gmail.com
+description: | # > this means to ignore newlines until "baseurl:"
   This is a website displaying content authored by Brittany Judson. Brittany is a young professional based in Atlanta, GA. Currently, Brittany is finishing up her last semester at Agnes Scott College as a Mathematics-Economics major. She's also a JUST Growth Consultant at a nonprofit called The Partnership for Southern Equity. This is her first time making a website on GitHub. On this site, you'll find the several sections, including: About Brittany, Resume, Work Experience, Economic Research, GitHub Repository, and other fun stuff. 
 
 # social links
